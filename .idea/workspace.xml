@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9aa89249-7901-48b0-9537-3376ce1fa775" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/example/博客园登录.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/淘宝网页查询.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/元素等待.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/八大查找页面元素方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/判断页面元素是否存在.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/界面方式选择.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/鼠标事件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/QQ邮箱登录.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/小区房价.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/截取某个元素的图片.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/文件下载弹框处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/百度表情包下载.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/键盘事件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/20190627-基本使用.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/20190627-基本使用2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/界面方式选择.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/查看版本号.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modu/__init__.py" beforeDir="false" />
-    </list>
+    <list default="true" id="9aa89249-7901-48b0-9537-3376ce1fa775" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,8 +86,8 @@
       <file leaf-file-name="博客园登录.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example/博客园登录.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            <state relative-caret-position="188">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
               <folding>
                 <element signature="e#147#177#0" expanded="true" />
               </folding>
@@ -424,7 +402,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="370" y="68" width="1353" height="707" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -432,8 +409,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3288889" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.35775128" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32879046" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18764302" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32879046" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18764302" />
       <window_info anchor="bottom" id="Statistic" order="7" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
@@ -810,8 +787,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example/博客园登录.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="188">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
           <folding>
             <element signature="e#147#177#0" expanded="true" />
           </folding>
